@@ -87,6 +87,8 @@ The system provides a web interface for creating and querying healthcare resourc
 │ HAPI FHIR Server │
 └──────────────────┘
 ``` 
+---
+
 ## Project Structure
 ```text
 fhir-exchange-platform
@@ -106,6 +108,8 @@ fhir-exchange-platform
 ├── screenshots
 └── README.md
 ```
+---
+
 ## FHIR Resource Relationship
 ```text
 Organization
@@ -120,6 +124,8 @@ Organization
                     ▼
                Practitioner
 ```
+---
+
 ## API List
 ```text
 Organization API
@@ -141,6 +147,7 @@ Patient API
 | GET    | /api/patient/:id              | Get Patient                  |
 | GET    | /api/patient/organization/:id | Get Patients by Organization |
 ```
+---
 
 ## screenshots
 
@@ -163,6 +170,8 @@ Patient API
 ### Patient Query by organization
 
 ![Query2](./screenshots/query2.png)
+
+---
 
 ## Author
 
