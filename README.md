@@ -163,3 +163,12 @@ Patient API
 ### Patient Query by organization
 
 ![Query2](./screenshots/query2.png)
+
+## Author
+
+Pei-Yu Hsu
+
+FHIR Engineer | Healthcare Software Engineer | Medical Informatics Engineer
+
+GitHub:
+https://github.com/queen987655
