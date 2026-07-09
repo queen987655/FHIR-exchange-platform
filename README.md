@@ -153,7 +153,7 @@ Patient API
 
 ### Organization Creation
 
-![Organization](./screenshots/organization.png)
+![Organization](./screenshots/Organization.png)
 
 ### Practitioner Creation
 
